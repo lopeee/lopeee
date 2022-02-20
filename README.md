@@ -1,12 +1,13 @@
-### Hi there 👋
+<h2>### Hi there 👋</h2>
 
-I'm a little experienced beginner in coding...
+<p>I'm a little experienced beginner in coding...</p>
 
-I started coding with 'processing' and i love 'Algorithmic Art'...
-At the moment i found a 'coding home' in P5.js, HTML and CSS...
-I'm right at the beginning but i love coding, cause it teaches me structure, it gives me focus, what it needs to reach a goal...
+<p>I started coding with 'processing' and i love 'Algorithmic Art'...<br>
+At the moment i found a 'coding home' in P5.js, HTML and CSS...<br>
+I'm right at the beginning but i love coding, cause it teaches me structure,<br>
+it gives me focus, what it needs to reach a goal...</p>
 
-At the moment i work on a simple tool to create nice pieces of art
-by using simple shapes...
+<p>At the moment i work on a simple tool to create nice pieces of art
+by using simple shapes...</p>
 
-- thanks to all the people out there, who share there knowledge and inspiration, you already helped me so much...
+<p>- <b>thanks</b> to all the people out there, who share there knowledge and inspiration, you already helped me so much...</p>
